@@ -1,2 +1,2 @@
 # AntiCrackedLauncher
-Prevents your Minecraft client from getting started by a Cracked Launcher!
+Prevents your Minecraft client from getting launched with a Cracked Launcher!
